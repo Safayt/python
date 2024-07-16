@@ -1,0 +1,15 @@
+number1=int(input("Enter the first number:"))
+number2=int(input("Enter the second number:"))
+add=number1+number2
+print('The sum of','number1' and 'number2','is',add)
+sub=number1-number2
+print('The sub of','number1' and 'number2','is',sub)
+mul=number1*number2
+print('the mul of', 'number1' and 'number2','is',mul)
+div=number1/number2
+print('the div of','number1','number2','is', div)
+exp=number1**number2
+print('the exp of','number1','number2','is',exp)
+mod=number1%number2
+print('the mod of','number1','number2','is',mod)
+print(':=)')
